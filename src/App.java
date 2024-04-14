@@ -18,6 +18,5 @@ public class App {
         String school = JOptionPane.showInputDialog("Enter Your School name");
         JOptionPane.showMessageDialog(null,"You Study at "+school);
 
-
     }
 }
